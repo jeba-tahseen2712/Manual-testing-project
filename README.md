@@ -12,8 +12,8 @@ https://play.google.com/store/apps/details?id=com.mithai.android&hl=en&gl=US&pli
 
 **Project Structure:**
 
-1.Test Cases: Detailed test cases with test scenario, test steps expected outcomes, actual output, Bug prove and status.
-2.Mind Map: Visual representation of testing scope and functionalities.
+1.Test Cases: Detailed test cases with test scenario, test steps expected outcomes, actual output, Bug prove and status.<br>
+2.Mind Map: Visual representation of testing scope and functionalities.<br>
 3.Test Summary Report: Summary of test execution with pass/fail statistics.
 4.Bug Report: Documentation of discovered bugs with severity and status.
 5.Test Metrics: Metrics to assess test coverage and execution effectiveness.
